@@ -1,0 +1,2 @@
+This lecture continues the discussion on Python by providing practical examples involving functions. Several real-world scenarios are covered, including temperature conversion, password strength checking, shopping cart calculations, palindrome detection, factorial computation using recursion, word frequency counting from a file, and email validation.
+
